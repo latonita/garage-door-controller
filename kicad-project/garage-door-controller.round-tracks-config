@@ -1,0 +1,8 @@
+Default	True	2.0	3
+PWR_H	True	2.0	3
+gnd	True	2.0	3
+pwm	True	2.0	3
+pwr_low	True	2.0	3
+pwr_med	True	2.0	3
+thin	True	2.0	3
+False	True	False

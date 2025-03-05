@@ -21,4 +21,4 @@ Features:
 
 # BOM
 
-[Interactive BOM](bom/ibom.html)
+[Interactive BOM](https://raw.githack.com/latonita/garage-door-controller/refs/heads/main/kicad-project/bom/ibom.html)

@@ -4832,7 +4832,7 @@
 						(type background)
 					)
 				)
-				(pin unspecified line
+				(pin power_out line
 					(at -21.59 13.97 0)
 					(length 2.54)
 					(name "AVDD"
@@ -4850,7 +4850,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_out line
 					(at -21.59 10.16 0)
 					(length 2.54)
 					(name "DVDD"
@@ -4868,7 +4868,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at -21.59 -2.54 0)
 					(length 2.54)
 					(name "nFAULT"
@@ -4886,7 +4886,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at -21.59 -6.35 0)
 					(length 2.54)
 					(name "SNSOUT"
@@ -4904,7 +4904,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at -21.59 -11.43 0)
 					(length 2.54)
 					(name "SO"
@@ -4922,7 +4922,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -21.59 -15.24 0)
 					(length 2.54)
 					(name "IDRIVE"
@@ -4940,7 +4940,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -11.43 24.13 270)
 					(length 2.54)
 					(name "VREF"
@@ -4958,7 +4958,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -7.62 -24.13 90)
 					(length 2.54)
 					(name "nSLEEP"
@@ -4976,7 +4976,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at -6.35 24.13 270)
 					(length 2.54)
 					(name "CPL"
@@ -4994,7 +4994,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -3.81 -24.13 90)
 					(length 2.54)
 					(name "IN1"
@@ -5012,7 +5012,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at 0 -24.13 90)
 					(length 2.54)
 					(name "IN2"
@@ -5030,7 +5030,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 1.27 24.13 270)
 					(length 2.54)
 					(name "CPH"
@@ -5048,7 +5048,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_in line
 					(at 3.81 -24.13 90)
 					(length 2.54)
 					(name "GND"
@@ -5066,7 +5066,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 5.08 24.13 270)
 					(length 2.54)
 					(name "VCP"
@@ -5084,7 +5084,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_in line
 					(at 7.62 -24.13 90)
 					(length 2.54)
 					(name "GND"
@@ -5102,7 +5102,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_in line
 					(at 11.43 -24.13 90)
 					(length 2.54)
 					(name "GND"
@@ -5120,7 +5120,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_in line
 					(at 12.7 24.13 270)
 					(length 2.54)
 					(name "VM"
@@ -5138,7 +5138,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at 21.59 13.97 180)
 					(length 2.54)
 					(name "GH2"
@@ -5156,7 +5156,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at 21.59 10.16 180)
 					(length 2.54)
 					(name "SH2"
@@ -5174,7 +5174,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at 21.59 6.35 180)
 					(length 2.54)
 					(name "GL2"
@@ -5192,7 +5192,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at 21.59 1.27 180)
 					(length 2.54)
 					(name "SP"
@@ -5210,7 +5210,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at 21.59 -2.54 180)
 					(length 2.54)
 					(name "SN"
@@ -5228,7 +5228,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at 21.59 -7.62 180)
 					(length 2.54)
 					(name "GL1"
@@ -5246,7 +5246,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at 21.59 -11.43 180)
 					(length 2.54)
 					(name "SH1"
@@ -5264,7 +5264,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at 21.59 -15.24 180)
 					(length 2.54)
 					(name "GH1"
@@ -7862,7 +7862,7 @@
 						(type none)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -8.89 7.62 0)
 					(length 2.54)
 					(name "1A"
@@ -7880,7 +7880,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -8.89 5.08 0)
 					(length 2.54)
 					(name "1B"
@@ -7898,7 +7898,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at -8.89 2.54 0)
 					(length 2.54)
 					(name "1Y"
@@ -7916,7 +7916,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -8.89 0 0)
 					(length 2.54)
 					(name "2A"
@@ -7934,7 +7934,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -8.89 -2.54 0)
 					(length 2.54)
 					(name "2B"
@@ -7952,7 +7952,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at -8.89 -5.08 0)
 					(length 2.54)
 					(name "2Y"
@@ -7970,7 +7970,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_in line
 					(at -8.89 -7.62 0)
 					(length 2.54)
 					(name "GND"
@@ -7988,7 +7988,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_in line
 					(at 8.89 7.62 180)
 					(length 2.54)
 					(name "VCC"
@@ -8006,7 +8006,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at 8.89 5.08 180)
 					(length 2.54)
 					(name "4B"
@@ -8024,7 +8024,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at 8.89 2.54 180)
 					(length 2.54)
 					(name "4A"
@@ -8042,7 +8042,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at 8.89 0 180)
 					(length 2.54)
 					(name "4Y"
@@ -8060,7 +8060,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at 8.89 -2.54 180)
 					(length 2.54)
 					(name "3B"
@@ -8078,7 +8078,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at 8.89 -5.08 180)
 					(length 2.54)
 					(name "3A"
@@ -8096,7 +8096,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at 8.89 -7.62 180)
 					(length 2.54)
 					(name "3Y"
@@ -10425,6 +10425,107 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:PWR_FLAG"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name "pwr"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(rectangle
 		(start 222.885 179.705)
@@ -10597,7 +10698,7 @@
 	)
 	(text "Unused to VCC"
 		(exclude_from_sim no)
-		(at 148.336 151.638 0)
+		(at 154.432 151.384 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11316,6 +11417,12 @@
 		(uuid "0165db79-cc92-4374-99d2-0d32b2c2e18b")
 	)
 	(junction
+		(at 35.56 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "052d815e-7190-43d9-9fb7-4814e1ce20a3")
+	)
+	(junction
 		(at 314.96 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11388,6 +11495,12 @@
 		(uuid "1a9a40c2-16b1-4b44-a02f-d7838aa4fb3b")
 	)
 	(junction
+		(at 130.81 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1e4c7e79-00e4-4643-858d-e284a27b4bd4")
+	)
+	(junction
 		(at 140.97 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11412,10 +11525,10 @@
 		(uuid "22a42cb4-5531-4f6d-aaaa-20d1919ccbdc")
 	)
 	(junction
-		(at 138.43 139.7)
+		(at 138.43 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2651fb42-2f3b-4d64-8007-6eb8f0108494")
+		(uuid "25217673-7971-4626-b66c-f9fadafd5a75")
 	)
 	(junction
 		(at 80.01 35.56)
@@ -11436,16 +11549,16 @@
 		(uuid "2c4b259b-4c1b-4858-bf3e-4c2f18a03f86")
 	)
 	(junction
-		(at 140.97 35.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "305e2d3b-7dda-449c-81dc-29d81915f7d4")
-	)
-	(junction
 		(at 224.79 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "341ffed4-4d52-46ec-af32-952ff2bd269e")
+	)
+	(junction
+		(at 284.48 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36b0c444-bb38-45a0-956f-48fc3eb70494")
 	)
 	(junction
 		(at 203.2 261.62)
@@ -11550,22 +11663,16 @@
 		(uuid "5a70a051-d1c5-408b-ab3e-f0c31bae376e")
 	)
 	(junction
-		(at 130.81 35.56)
+		(at 68.58 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5a7e786d-715b-4f61-a5c6-10696423925c")
+		(uuid "5b218cf3-02d2-49f4-b11d-483b4f1a9aa2")
 	)
 	(junction
 		(at 140.97 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5a839f12-66e5-4784-a0f7-2ccf1ed1de80")
-	)
-	(junction
-		(at 68.58 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5b218cf3-02d2-49f4-b11d-483b4f1a9aa2")
+		(uuid "5c7e3fff-565b-4878-9315-835c2e87af65")
 	)
 	(junction
 		(at 318.77 83.82)
@@ -11590,6 +11697,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6039ecb0-7389-4b87-a71f-d0037dfb3d75")
+	)
+	(junction
+		(at 92.71 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60cd3d03-4ed1-4762-96df-cda27a09cf23")
 	)
 	(junction
 		(at 321.31 39.37)
@@ -11632,6 +11745,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c2b695b-feeb-4fa7-b8cf-05776fe90bc5")
+	)
+	(junction
+		(at 152.4 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6d652b31-fefa-4b94-924b-c7110add26cf")
 	)
 	(junction
 		(at 194.31 246.38)
@@ -11802,12 +11921,6 @@
 		(uuid "a20e889f-f713-49dc-822c-562121f2f5ac")
 	)
 	(junction
-		(at 92.71 35.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a2c6ac72-9d53-4c62-9082-b1e7618e7aaa")
-	)
-	(junction
 		(at 332.74 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11926,12 +12039,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7d5431c-e6e4-4e88-81e4-637b4d3b4d0d")
-	)
-	(junction
-		(at 138.43 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d81e92cb-71cd-445d-a737-e1d3976a8a6b")
 	)
 	(junction
 		(at 254 63.5)
@@ -12217,7 +12324,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 35.56) (xy 140.97 35.56)
+			(xy 130.81 27.94) (xy 140.97 27.94)
 		)
 		(stroke
 			(width 0)
@@ -12474,6 +12581,16 @@
 			(type default)
 		)
 		(uuid "11831409-d3d8-43d9-b3f0-9c15c55a161d")
+	)
+	(wire
+		(pts
+			(xy 127 35.56) (xy 125.73 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "121fc122-0f3e-4493-8229-15e38763e43d")
 	)
 	(wire
 		(pts
@@ -12937,6 +13054,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 35.56) (xy 92.71 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26d814b8-e5ca-42cc-95d4-3eacb61037eb")
+	)
+	(wire
+		(pts
 			(xy 92.71 48.26) (xy 102.87 48.26)
 		)
 		(stroke
@@ -13207,7 +13334,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 48.26) (xy 48.26 50.8)
+			(xy 48.26 48.26) (xy 48.26 49.53)
 		)
 		(stroke
 			(width 0)
@@ -13855,16 +13982,6 @@
 		)
 		(uuid "4c0a6941-410b-4cfc-bc6d-dc9f424751c8")
 	)
-	(wire
-		(pts
-			(xy 140.97 26.67) (xy 140.97 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c3d21a5-e23d-444e-a4f9-b40bcb07dcbe")
-	)
 	(polyline
 		(pts
 			(xy 241.935 185.42) (xy 241.3 184.15)
@@ -13894,6 +14011,16 @@
 			(type default)
 		)
 		(uuid "4c75f72d-33e9-421e-8299-ef54c9642091")
+	)
+	(wire
+		(pts
+			(xy 130.81 27.94) (xy 130.81 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cf0fcbf-8ef5-446c-ac60-dd89f54f3d10")
 	)
 	(wire
 		(pts
@@ -14347,7 +14474,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 48.26) (xy 115.57 50.8)
+			(xy 115.57 48.26) (xy 115.57 49.53)
 		)
 		(stroke
 			(width 0)
@@ -14577,7 +14704,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 48.26) (xy 130.81 45.72)
+			(xy 130.81 48.26) (xy 130.81 41.91)
 		)
 		(stroke
 			(width 0)
@@ -15017,6 +15144,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 27.94) (xy 127 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83092127-87ef-4015-9f66-fa63d2890f59")
+	)
+	(wire
+		(pts
 			(xy 379.73 36.83) (xy 387.35 36.83)
 		)
 		(stroke
@@ -15074,16 +15211,6 @@
 			(type default)
 		)
 		(uuid "84f15e6f-57d0-4acd-849b-f92ea78da954")
-	)
-	(wire
-		(pts
-			(xy 92.71 35.56) (xy 102.87 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84f6d491-fd94-4ba5-a4ce-01f212b36763")
 	)
 	(wire
 		(pts
@@ -15617,16 +15744,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 35.56) (xy 130.81 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0977106-6bf8-4609-836c-cc7ed6387a10")
-	)
-	(wire
-		(pts
 			(xy 354.33 170.18) (xy 369.57 170.18)
 		)
 		(stroke
@@ -15674,6 +15791,16 @@
 			(type default)
 		)
 		(uuid "a1a9f18d-a6b6-423d-8682-363029a196b9")
+	)
+	(wire
+		(pts
+			(xy 158.75 24.13) (xy 158.75 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1d30ca8-190c-4642-80d8-bb9d2ae23b90")
 	)
 	(wire
 		(pts
@@ -15767,7 +15894,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 35.56) (xy 140.97 27.94)
+			(xy 140.97 27.94) (xy 140.97 34.29)
 		)
 		(stroke
 			(width 0)
@@ -15864,6 +15991,16 @@
 			(type default)
 		)
 		(uuid "b07d6381-a5df-48a5-9b29-e320166c62f9")
+	)
+	(wire
+		(pts
+			(xy 158.75 27.94) (xy 152.4 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0ee65c1-8c20-4c7a-a23f-fec72c3b9c08")
 	)
 	(wire
 		(pts
@@ -16114,6 +16251,16 @@
 			(type default)
 		)
 		(uuid "bac4daf5-1a9a-478b-8b37-1b46fff533d7")
+	)
+	(wire
+		(pts
+			(xy 92.71 35.56) (xy 102.87 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb3b4ea2-be3d-495d-b356-1a5006c4b106")
 	)
 	(wire
 		(pts
@@ -16807,16 +16954,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 26.67) (xy 92.71 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db913a3e-54a7-47a6-8b3f-02bfc1cff423")
-	)
-	(wire
-		(pts
 			(xy 342.9 71.12) (xy 342.9 68.58)
 		)
 		(stroke
@@ -17177,7 +17314,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 48.26) (xy 140.97 45.72)
+			(xy 140.97 48.26) (xy 140.97 41.91)
 		)
 		(stroke
 			(width 0)
@@ -17227,7 +17364,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 35.56) (xy 130.81 35.56)
+			(xy 127 27.94) (xy 130.81 27.94)
 		)
 		(stroke
 			(width 0)
@@ -17597,16 +17734,6 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 139.7) (xy 138.43 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd4a880d-a58c-4437-801b-939bde83ddc9")
-	)
-	(wire
-		(pts
 			(xy 190.5 245.11) (xy 190.5 246.38)
 		)
 		(stroke
@@ -17634,16 +17761,6 @@
 			(type default)
 		)
 		(uuid "fdcfafd0-195d-4609-88fc-d4698f51ff6a")
-	)
-	(wire
-		(pts
-			(xy 140.97 35.56) (xy 140.97 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "feb3d379-47b7-4513-ab13-594fad29842a")
 	)
 	(wire
 		(pts
@@ -18036,7 +18153,7 @@
 		(uuid "671ab55c-63c3-4eec-bbb7-c8e1462d3eaa")
 	)
 	(label "L_GATE_DRV"
-		(at 251.46 251.46 90)
+		(at 248.92 251.46 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19193,6 +19310,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 71.12 90.17 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-00005b6c03c9")
+		(property "Reference" "#FLG0103"
+			(at 73.025 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 74.3712 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 71.12 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "405fd1d6-f22c-4c91-b009-755f2520eb5f")
+		)
+		(instances
+			(project "garage-door-controller"
+				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
+					(reference "#FLG0103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:0603WAF1002T5E")
 		(at 342.9 64.77 270)
 		(unit 1)
@@ -19518,8 +19700,75 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 146.05 154.94 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "05bae76d-4a34-49b4-beb1-19651485a9f3")
+		(property "Reference" "#PWR041"
+			(at 142.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 149.86 154.9399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 146.05 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 146.05 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b1816d66-da37-47dc-8571-faf0f76f4213")
+		)
+		(instances
+			(project "garage-door-controller"
+				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 48.26 50.8 0)
+		(at 48.26 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19528,7 +19777,7 @@
 		(fields_autoplaced yes)
 		(uuid "05cda68d-e682-4b39-ab6a-4a26738efe96")
 		(property "Reference" "#PWR038"
-			(at 48.26 57.15 0)
+			(at 48.26 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19537,7 +19786,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 50.8 52.0699 0)
+			(at 50.8 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19547,7 +19796,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 50.8 0)
+			(at 48.26 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19556,7 +19805,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 50.8 0)
+			(at 48.26 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19565,7 +19814,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.26 50.8 0)
+			(at 48.26 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20542,7 +20791,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 115.57 50.8 0)
+		(at 115.57 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20551,7 +20800,7 @@
 		(fields_autoplaced yes)
 		(uuid "123b08dd-c609-4130-9d58-ae772405ded0")
 		(property "Reference" "#PWR057"
-			(at 115.57 57.15 0)
+			(at 115.57 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20560,7 +20809,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 115.5701 54.61 90)
+			(at 115.5701 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20570,7 +20819,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 50.8 0)
+			(at 115.57 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20579,7 +20828,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 50.8 0)
+			(at 115.57 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20588,7 +20837,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 115.57 50.8 0)
+			(at 115.57 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21243,6 +21492,71 @@
 			(project "garage-door-controller"
 				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 80.01 29.21 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "172c86e5-2e2e-439e-8e28-bf773940cd46")
+		(property "Reference" "#FLG0105"
+			(at 81.915 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 83.2612 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 80.01 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c8af48f9-4796-4390-b7f7-7fe6b270d0d8")
+		)
+		(instances
+			(project "garage-door-controller"
+				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
+					(reference "#FLG0105")
 					(unit 1)
 				)
 			)
@@ -24306,7 +24620,7 @@
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 341.63 100.33 90)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -25243,7 +25557,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 140.97 41.91 180)
+		(at 140.97 38.1 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25251,7 +25565,7 @@
 		(dnp no)
 		(uuid "4e82bbdf-eb26-469d-aa7b-98a4d2759c96")
 		(property "Reference" "C5"
-			(at 136.144 42.164 0)
+			(at 136.144 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25259,7 +25573,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 137.16 44.704 0)
+			(at 137.16 40.894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25267,7 +25581,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:C0603"
-			(at 140.0048 38.1 0)
+			(at 140.0048 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25276,7 +25590,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 41.91 0)
+			(at 140.97 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25285,7 +25599,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 140.97 41.91 0)
+			(at 140.97 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25294,7 +25608,7 @@
 			)
 		)
 		(property "LCSC Part" "C19702"
-			(at 140.97 41.91 0)
+			(at 140.97 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25303,7 +25617,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 140.97 41.91 0)
+			(at 140.97 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25311,7 +25625,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 140.97 41.91 0)
+			(at 140.97 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25319,7 +25633,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 140.97 41.91 0)
+			(at 140.97 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25345,7 +25659,7 @@
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 349.25 31.75 0)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -25602,7 +25916,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 140.97 26.67 0)
+		(at 158.75 24.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25611,7 +25925,7 @@
 		(fields_autoplaced yes)
 		(uuid "517b6a91-2d06-4389-b7f0-16295e51f2e7")
 		(property "Reference" "#PWR011"
-			(at 140.97 30.48 0)
+			(at 158.75 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25620,7 +25934,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 140.97 21.59 0)
+			(at 158.75 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25628,7 +25942,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 26.67 0)
+			(at 158.75 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25637,7 +25951,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 26.67 0)
+			(at 158.75 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25646,7 +25960,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 140.97 26.67 0)
+			(at 158.75 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26265,7 +26579,7 @@
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 314.96 78.74 270)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -28690,7 +29004,7 @@
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 311.15 91.44 90)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -28775,6 +29089,71 @@
 			(project ""
 				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
 					(reference "JP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 209.55 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7ef75371-d550-4510-bbd5-bd0229ab8e9e")
+		(property "Reference" "#FLG0107"
+			(at 209.55 226.695 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 209.55 225.3488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 209.55 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 209.55 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 209.55 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "07414c46-a07d-4d5b-9fcd-8a2765d38828")
+		)
+		(instances
+			(project "garage-door-controller"
+				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
+					(reference "#FLG0107")
 					(unit 1)
 				)
 			)
@@ -32609,6 +32988,72 @@
 	)
 	(symbol
 		(lib_id "power:+36V")
+		(at 71.12 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b97a195a-463a-4c44-94ae-23b8893e6d0d")
+		(property "Reference" "#PWR019"
+			(at 71.12 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+36V"
+			(at 71.12 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+36V\""
+			(at 71.12 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ee5be5fc-75fe-46c6-85bb-67b6e734d136")
+		)
+		(instances
+			(project "garage-door-controller"
+				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+36V")
 		(at 36.83 72.39 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -32678,7 +33123,7 @@
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 349.25 39.37 0)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -33138,7 +33583,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 130.81 41.91 180)
+		(at 130.81 38.1 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33146,7 +33591,7 @@
 		(dnp no)
 		(uuid "be65dd41-db61-4dfe-a7b4-27a570c13a40")
 		(property "Reference" "C8"
-			(at 126.238 42.164 0)
+			(at 126.238 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33154,7 +33599,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 126.746 44.704 0)
+			(at 126.746 40.894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33162,7 +33607,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:C0603"
-			(at 129.8448 38.1 0)
+			(at 129.8448 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33171,7 +33616,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 41.91 0)
+			(at 130.81 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33180,7 +33625,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 130.81 41.91 0)
+			(at 130.81 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33189,7 +33634,7 @@
 			)
 		)
 		(property "LCSC Part" "C14663"
-			(at 130.81 41.91 0)
+			(at 130.81 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33198,7 +33643,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 130.81 41.91 0)
+			(at 130.81 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33206,7 +33651,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 130.81 41.91 0)
+			(at 130.81 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33214,7 +33659,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 130.81 41.91 0)
+			(at 130.81 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34175,6 +34620,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 284.48 228.6 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8e41821-7503-49df-90cd-47f7ec348230")
+		(property "Reference" "#FLG0106"
+			(at 282.575 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 281.2288 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 284.48 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 284.48 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 284.48 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bdf50319-0d7e-4071-9224-bf6884d9b111")
+		)
+		(instances
+			(project "garage-door-controller"
+				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
+					(reference "#FLG0106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 387.35 238.76 180)
 		(unit 1)
@@ -34407,7 +34918,7 @@
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 303.53 91.44 90)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -34501,7 +35012,7 @@
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 318.77 91.44 90)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -34662,7 +35173,7 @@
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 307.34 78.74 270)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -35398,71 +35909,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 92.71 26.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d8c703cb-24dc-4831-985e-b52d3c96674c")
-		(property "Reference" "#PWR060"
-			(at 92.71 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 92.456 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 92.71 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 92.71 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "28612476-3baa-459d-9e9b-17a21bb7265f")
-		)
-		(instances
-			(project "garage-door-controller"
-				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
-					(reference "#PWR060")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 227.33 33.02 0)
 		(unit 1)
@@ -35657,6 +36103,72 @@
 			(project "garage-door-controller"
 				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
 					(reference "#PWR085")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+24V")
+		(at 71.12 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd7f81f1-bb25-4aa3-ad98-d11fba355314")
+		(property "Reference" "#PWR06"
+			(at 71.12 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+24V"
+			(at 71.12 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+24V\""
+			(at 71.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a8ff7d0d-24b6-4be2-b4f7-032f3177b277")
+		)
+		(instances
+			(project "garage-door-controller"
+				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -37040,6 +37552,14 @@
 				)
 			)
 		)
+		(property "Label" "Flash"
+			(at 249.682 59.944 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "f6591cf0-972f-4cf4-bee0-5f87cfd809bd")
 		)
@@ -37757,6 +38277,14 @@
 				)
 			)
 		)
+		(property "Label" "Reset"
+			(at 196.088 60.452 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "266a635a-189f-4a62-a0c8-589289aae5fb")
 		)
@@ -37975,6 +38503,71 @@
 			(project "garage-door-controller"
 				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
 					(reference "R52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 71.12 101.6 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f39f09f3-3edd-4811-8ad9-09b14f1ee2fe")
+		(property "Reference" "#FLG0104"
+			(at 73.025 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 74.3712 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 71.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ea732f03-0c1e-42c3-89e3-58e0fe9e6c03")
+		)
+		(instances
+			(project "garage-door-controller"
+				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
+					(reference "#FLG0104")
 					(unit 1)
 				)
 			)
@@ -38554,6 +39147,107 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:0603WAF1002T5E")
+		(at 142.24 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f6f2ecc3-d08a-4780-8975-4ddc747f204f")
+		(property "Reference" "R56"
+			(at 142.24 152.908 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 142.24 154.94 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:R0603"
+			(at 142.24 157.988 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10KR-1002-1_C25804.html"
+			(at 142.24 160.528 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor"
+			(at 142.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C25804"
+			(at 142.24 163.068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 142.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 142.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 142.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9453d432-f708-4cc9-8a00-79ebd1eeece4")
+		)
+		(pin "2"
+			(uuid "1325f5e4-f69c-4a1a-89f5-faee87dd1309")
+		)
+		(instances
+			(project "garage-door-controller"
+				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
+					(reference "R56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+24V")
 		(at 30.48 27.94 0)
 		(unit 1)
@@ -38747,6 +39441,71 @@
 			(project "garage-door-controller"
 				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
 					(reference "#PWR079")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 35.56 80.01 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fbcb11d1-64a4-4b72-9cd4-d4fc4b8c9b34")
+		(property "Reference" "#FLG0108"
+			(at 37.465 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 38.8112 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 35.56 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 35.56 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 35.56 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6a4f40e7-ef39-4e35-a7e3-56fe45fa2ca7")
+		)
+		(instances
+			(project "garage-door-controller"
+				(path "/94a17261-de2f-425e-b6e1-ca8468ed71de"
+					(reference "#FLG0108")
 					(unit 1)
 				)
 			)

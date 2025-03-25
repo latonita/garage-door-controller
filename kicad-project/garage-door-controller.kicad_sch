@@ -10589,6 +10589,19 @@
 		)
 		(uuid fddb6f73-f871-4c1f-ac55-c7aefea59b46)
 	)
+	(text "Motor H-bridge"
+		(exclude_from_sim no)
+		(at 300.99 131.318 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.6)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "0b70749e-16ad-436a-8c58-838d9e8a54a5")
+	)
 	(text "Top/Bottom"
 		(exclude_from_sim no)
 		(at 256.54 154.432 0)
@@ -10736,6 +10749,19 @@
 		)
 		(uuid "874d445e-ca49-4041-95be-372d30b03106")
 	)
+	(text "Convenient light PWM or External relay control"
+		(exclude_from_sim no)
+		(at 168.91 211.074 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "9e9dd46d-59eb-4460-bfd2-dde06f480222")
+	)
 	(text "+24 and LIGHT_LOW are \nfor external 24V relay\n\nLIGHT_LOW and GND can \nbe used for PWM ground, \nexternal supply needed."
 		(exclude_from_sim no)
 		(at 58.42 164.084 0)
@@ -10853,26 +10879,6 @@
 		)
 		(uuid "fad9ad9b-d3a3-4e87-8c27-3b3ce2adc67e")
 	)
-	(text_box "Convenient light PWM or External relay control"
-		(exclude_from_sim no)
-		(at 167.64 208.28 0)
-		(size 129.54 71.12)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "05a5b323-cd7d-408a-8092-ad219140deae")
-	)
 	(text_box "DC-DC\n5V0\n3V3"
 		(exclude_from_sim no)
 		(at 205.105 161.29 0)
@@ -10969,26 +10975,6 @@
 			)
 		)
 		(uuid "57b37721-7588-41d2-ad17-4521cea4c553")
-	)
-	(text_box "Motor H-bridge"
-		(exclude_from_sim no)
-		(at 297.18 128.27 0)
-		(size 107.95 76.708)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "59fe3065-e319-4f3a-bf13-13eac4d8a58a")
 	)
 	(text_box "Extrn PSU\n24V\n36V off/on"
 		(exclude_from_sim no)
@@ -12972,6 +12958,16 @@
 		)
 		(uuid "21f6c7d5-a9c8-4059-a3de-ec6895583cd1")
 	)
+	(polyline
+		(pts
+			(xy 299.72 128.27) (xy 299.72 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "225cad3a-415f-48b2-ba94-e00cbc87d4f2")
+	)
 	(wire
 		(pts
 			(xy 209.55 256.54) (xy 213.36 256.54)
@@ -14112,6 +14108,16 @@
 		)
 		(uuid "52b6924c-c74f-43f3-97d7-d0a14e83a123")
 	)
+	(polyline
+		(pts
+			(xy 297.18 279.4) (xy 297.18 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52ee6678-ff9e-4df2-bfbd-67c2ee9a0fde")
+	)
 	(wire
 		(pts
 			(xy 186.69 234.95) (xy 190.5 234.95)
@@ -14531,6 +14537,16 @@
 			(type default)
 		)
 		(uuid "65575912-f3ff-41e0-a0b2-789c2461b131")
+	)
+	(polyline
+		(pts
+			(xy 167.64 279.4) (xy 297.18 279.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "658b0a58-3705-487d-837f-4bee10f2ffed")
 	)
 	(wire
 		(pts
@@ -15311,6 +15327,16 @@
 			(type default)
 		)
 		(uuid "8b425679-e8cc-40b2-a1a7-29ce11302ddc")
+	)
+	(polyline
+		(pts
+			(xy 405.13 204.47) (xy 299.72 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c626f6a-92e4-42dd-a7fd-f56838160653")
 	)
 	(wire
 		(pts
@@ -16252,6 +16278,16 @@
 		)
 		(uuid "bac4daf5-1a9a-478b-8b37-1b46fff533d7")
 	)
+	(polyline
+		(pts
+			(xy 405.13 128.27) (xy 405.13 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bafe9ddf-9fbb-4f25-96b8-61aa005ca5ef")
+	)
 	(wire
 		(pts
 			(xy 92.71 35.56) (xy 102.87 35.56)
@@ -16972,6 +17008,16 @@
 		)
 		(uuid "dbe047a1-c1b3-4daa-9817-b7bfbd0cffe1")
 	)
+	(polyline
+		(pts
+			(xy 299.72 128.27) (xy 405.13 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc65cda1-f974-4bfc-8db3-b5ebb79ea5cc")
+	)
 	(wire
 		(pts
 			(xy 55.88 232.41) (xy 55.88 233.68)
@@ -17284,6 +17330,16 @@
 	)
 	(polyline
 		(pts
+			(xy 167.64 208.28) (xy 297.18 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e99736e4-8b47-4c62-98fa-c4c45ce68efc")
+	)
+	(polyline
+		(pts
 			(xy 212.725 151.765) (xy 212.09 151.13)
 		)
 		(stroke
@@ -17481,6 +17537,16 @@
 			(type default)
 		)
 		(uuid "f0b6ce2d-31b8-4d23-b891-ecf681de6981")
+	)
+	(polyline
+		(pts
+			(xy 167.64 208.28) (xy 167.64 279.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0ce6b5b-c715-4a8c-aad9-6fd6174cfff2")
 	)
 	(wire
 		(pts
@@ -24584,6 +24650,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -27244,6 +27311,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"

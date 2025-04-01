@@ -1,0 +1,8 @@
+
+Tracks
+ - signals mostly 0.25mm, some longer 0.3mm
+ - power 0.5mm mostly
+
+Clearance
+ - 36V(VM) and motor planes - 0.6mm
+ - GND 0.4mm

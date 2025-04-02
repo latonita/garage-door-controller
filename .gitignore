@@ -7,25 +7,24 @@
 *.bck
 kicad-project/*.kicad_pcb-bak
 kicad-project/*.kicad_sch-bak
+kicad-project/*.kicad_prl
+kicad-project/garage-door-controller-backups
 kicad-project/production/backups/
-*-backups
-*.kicad_prl
-*.sch-bak
 *~
-_autosave-*
+kicad-project/_autosave-*
 *.tmp
-*-save.pro
-*-save.kicad_pcb
-fp-info-cache
+kicad-project/*-save.pro
+kicad-project/*-save.kicad_pcb
+kicad-project/fp-info-cache
 ~*.lck
 \#auto_saved_files#
 
 # Netlist files (exported from Eeschema)
-*.net
+kicad-project/*.net
 
 # Autorouter files (exported from Pcbnew)
-*.dsn
-*.ses
+kicad-project/*.dsn
+kicad-project/*.ses
 
 # Exported BOM files
 *.xml
